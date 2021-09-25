@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        input, button {
+            margin: auto;
+            display: block;
+            font-size: larger;
+        }
+
+        p {
+            text-align: center;
+            font-size: xx-large;
+        }
+
+        canvas {
+            border:1px solid #000;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+        }
+
+        #buttonClass {
+            width: 100%;
+            text-align: center;
+        }
+
+        .inlineButtons {
+            display: inline-block;
+            padding-left: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="myCanvas" width="400" height="400"></canvas>
+    <input id="slider1" type="range" min="10" max="1000" style="display: none;" />
+    <br>
+    <p>Slide Me Up To Move Faster</p>
+    <input id="slider2" type="range" min="10" max="110" />
+    <br><br><br>
+    <button id="hypnosis">Turn On Hypnosis</button>
+    <br>
+    <p>Change the object</p>
+    <div id="buttonClass">
+        <div class="inlineButtons">
+            <button id="triangleButton" onclick="draw('triangle')">
+                Triangle
+            </button>
+        </div>
+        <div class="inlineButtons">
+            <button id="squareButton" onclick="draw('square')">
+                Square
+            </button>
+        </div>
+        <div class="inlineButtons">
+            <button id="rectangleButton" onclick="draw('rectangle')">
+                Rectangle
+            </button>
+        </div>
+        <div class="inlineButtons">
+            <button id="hexagonButton" onclick="draw('hexagon')">
+                Hexagon
+            </button>
+        </div>
+    </div>
+</body>
+<script src="script.js" defer></script>
+</html>
