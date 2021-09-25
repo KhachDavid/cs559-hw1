@@ -21,14 +21,14 @@ while the normal mode clears the canvas before creating a new object
 <br>
 [used to get a random number within a range](https://www.geeksforgeeks.org/how-to-generate-random-number-in-given-range-using-javascript/)
 <br>
-[used to draw a rectangle](https://www.w3schools.com/tags/canvas_rect.asp]
+[used to draw a rectangle](https://www.w3schools.com/tags/canvas_rect.asp)
 <br>
-[used to call a function with variable name](https://stackoverflow.com/questions/1723287/calling-a-javascript-function-named-in-a-variable]
+[used to call a function with variable name](https://stackoverflow.com/questions/1723287/calling-a-javascript-function-named-in-a-variable)
 <br>
-[used to style the buttons at the bottom of the page](https://stackoverflow.com/questions/21376788/how-to-display-3-buttons-on-the-same-line-in-css/21376901]
+[used to style the buttons at the bottom of the page](https://stackoverflow.com/questions/21376788/how-to-display-3-buttons-on-the-same-line-in-css/21376901)
 <br>
-[used to set the interval on calling the async function changeSliderValue that calls the draw function](https://stackoverflow.com/questions/21429033/how-to-call-js-function-continuously-after-every-5-seconds]
+[used to set the interval on calling the async function changeSliderValue that calls the draw function](https://stackoverflow.com/questions/21429033/how-to-call-js-function-continuously-after-every-5-seconds)
 <br>
-[used to create an asynchronous call to the draw function](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await]
+[used to create an asynchronous call to the draw function](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
 <br>
-[used to draw the hexagon](https://eperezcosano.github.io/hex-grid/]
+[used to draw the hexagon](https://eperezcosano.github.io/hex-grid/)
